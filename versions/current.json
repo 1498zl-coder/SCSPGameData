@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "application": "2.18.0",
+  "resource": "20006100",
+  "tag": "game-20006100-v2",
+  "manifest_url": "https://github.com/1498zl-coder/SCSPGameData/releases/download/game-20006100-v2/mirror.json",
+  "manifest_sha256": "755b9d1aa3a0d40f6cf5964718625a50a8017263ac2c1f14b69b4ed7d87b6c3c",
+  "files": 189086,
+  "packs": 389,
+  "package_bytes": 24782042999
+}
