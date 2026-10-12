@@ -7,5 +7,8 @@
   "manifest_sha256": "755b9d1aa3a0d40f6cf5964718625a50a8017263ac2c1f14b69b4ed7d87b6c3c",
   "files": 189086,
   "packs": 389,
-  "package_bytes": 24782042999
+  "package_bytes": 24782042999,
+  "new_packages": 389,
+  "new_package_bytes": 24782042999,
+  "payload_bytes": 27074795833
 }
